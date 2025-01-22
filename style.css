@@ -1,0 +1,37 @@
+.bigContainer {
+    background-color: rgb(34, 34, 34);
+    height: 1000px;
+    padding: 6px;
+    margin: -10px;
+}
+.container {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(73, 73, 73);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    margin: 12px;
+    border: 12px;
+    border-radius: 15px;
+    padding: 8px;
+}
+
+.button {
+    font-family: 'Courier New', Courier, monospace;
+    background-color:rgb(0, 146, 5);
+    color: rgb(255, 255, 255);
+    padding: 12px;
+    border: 4xp;
+    border-style:solid;
+    border-color: aliceblue;
+    margin: 12px;
+    border-radius: 12px;
+}
+
+.button:hover {
+    cursor: pointer;
+    background-color:rgb(0, 79, 3); ;
+}
+
+
